@@ -35,6 +35,6 @@ Here are some ideas to get you started:
 
 ## Contact
 
-🔗 [My LinkedIn](https://www.linkedin.com/in/yourprofile/](https://www.linkedin.com/in/tymon-pawelczyk/))
+🔗 [My LinkedIn](https://www.linkedin.com/in/yourprofile/](https://www.linkedin.com/in/tymon-pawelczyk)
 
 
