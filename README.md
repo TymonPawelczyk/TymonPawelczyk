@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there 👋
 
 <!--
 **TymonPawelczyk/TymonPawelczyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -35,5 +35,6 @@ Here are some ideas to get you started:
 
 ## Contact
 
-🔗 [Your LinkedIn]([https://www.linkedin.com/in/yourprofile/](https://www.linkedin.com/in/tymon-pawelczyk/))
+🔗 [My LinkedIn](https://www.linkedin.com/in/yourprofile/](https://www.linkedin.com/in/tymon-pawelczyk/))
+
 
