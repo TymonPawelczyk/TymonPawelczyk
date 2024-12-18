@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Welcome to my GitHub Profile!
-
 ## About Me
 
 🔧 **QA and Backend** enthusiast with a passion for Python.
