@@ -1,5 +1,3 @@
-# Hi there 👋
-
 <!--
 **TymonPawelczyk/TymonPawelczyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,39 +12,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## About Me
-
-🔧 **QA and Backend** enthusiast with a passion for Python.
-
-🚀 Currently building automated tests in **TypeScript** using **Playwright**.
-
-🎨 Hobbyist mobile app developer with **React Native**.
-
----
-
-## Technologies
-
-- 💚 **Python**
-- 🔧 **TypeScript** / JavaScript
-- 🔄 **React Native**
-- ⚛️ **Playwright**
-
----
-
-## Contact
-
-🔗 [My LinkedIn](https://www.linkedin.com/in/tymon-pawelczyk)
 
 # Hi there, I'm Tymon Pawelczyk! 👋
 
 ## About Me
-I'm a passionate developer with a focus on [your interests/technologies]. I love working on innovative projects and sharing knowledge with the community.
+I'm a passionate developer with a focus on Python. I love working on innovative projects and sharing knowledge with the community.
 
-- 🔭 I’m currently working on: [Your Current Project]
-- 🌱 I’m currently learning: [Technologies or Skills you're learning]
-- 👯 I’m looking to collaborate on: [Projects or Open Source initiatives]
-- 📫 How to reach me: [Your Email or LinkedIn]
-- ⚡ Fun fact: [A fun fact about you]
+- 🔭 I’m currently working on: Work Schedule App
+- 🌱 I’m currently learning: C#
+- 📫 How to reach me: tymon.pawelczyk@gmail.com
+- ⚡ Fun fact: I like a lot IoT
 
 ## Technologies & Tools
 Here are some of the technologies and tools I work with:
@@ -63,18 +38,18 @@ Here are some of the technologies and tools I work with:
 
 ## Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TymonPawelczyk&layout=compact&theme=radical)
-
+<!--
 ## Projects
 Here are some of my top projects:
 
 - [Project 1](https://github.com/TymonPawelczyk/Project1)
 - [Project 2](https://github.com/TymonPawelczyk/Project2)
 - [Project 3](https://github.com/TymonPawelczyk/Project3)
-
+-->
 ## Connect with Me
 Feel free to reach out to me on:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tymon-pawelczyk)
+
 
 Thanks for visiting my profile! Have a great day! 😄
