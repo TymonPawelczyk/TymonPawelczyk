@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 ## About Me
 I'm a passionate developer with a focus on Python. I love working on innovative projects and sharing knowledge with the community.
 
-- 🔭 I’m currently working on: Work Schedule App
-- 🌱 I’m currently learning: C#
+- 🔭 I’m currently working on: PlantSync
+- 🌱 I’m currently learning: Vue.js
 - 📫 How to reach me: tymon.pawelczyk@gmail.com
 - ⚡ Fun fact: I like a lot IoT
 
