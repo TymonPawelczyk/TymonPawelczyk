@@ -16,12 +16,13 @@ Here are some ideas to get you started:
 # Hi there, I'm Tymon Pawelczyk! 👋
 
 ## About Me
-I'm a passionate developer with a focus on Python. I love working on innovative projects and sharing knowledge with the community.
+I'm a passionate developer with a roots in Python. I love working on innovative projects and sharing knowledge with the community.
 
 - 🔭 I’m currently working on: PlantSync and PlantSync Mobile
 - 🌱 I’m currently learning: Vue.js and react Native
 - 📫 How to reach me: tymon.pawelczyk@gmail.com
-- ⚡ Fun fact: I like a lot IoT
+- ⚡ Fun fact: I like a Mobile & Web Apps and IoT.
+- Currently worikng as QA Automation Tester
 
 ## Technologies & Tools
 Here are some of the technologies and tools I work with:
